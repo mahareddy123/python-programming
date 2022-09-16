@@ -1,0 +1,13 @@
+dec =1101
+print("The decimal value of", dec, "is:")
+print(bin(dec), "in binary.")
+print(oct(dec), "in octal.")
+
+
+
+
+
+output:
+The decimal value of 1101 is:
+0b10001001101 in binary.
+0o2115 in octal.
