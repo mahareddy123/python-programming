@@ -1,0 +1,7 @@
+m=list(map(int,input("List : ").split(",")))[:100]
+n=input("N = ")
+m.sort(reverse=True)
+if(n.isnumeric()):
+       n=int(n)
+       if(n>0):
+               print(n," largest number is : ",m[n-1])
