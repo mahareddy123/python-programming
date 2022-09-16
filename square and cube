@@ -1,0 +1,19 @@
+n=float(input("enter the number "))
+a=n*n
+x=n*n*n
+print ("square of ",n,"is",a)
+print ("cube is ",n,"is",x)
+
+
+
+
+
+
+
+
+
+
+output:
+enter the number 4
+square of  4.0 is 16.0
+cube is  4.0 is 64.0
